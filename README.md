@@ -30,8 +30,6 @@
 
 ## Linguagens e Ferramentas:
 
-https://academiamt.com.br/wp-content/uploads/2023/05/mtcna-.jpg
-
 <p align="left">
     <a href="https://www.android.com/" target="_blank">
         <img src="icons/android.svg" alt="Android" width="40" height="40" />
