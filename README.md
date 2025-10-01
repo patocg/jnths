@@ -4,7 +4,7 @@
 ### Sou do Brasil e amo tecnologia.
 
 📝Eu vou tentar regularmente postar algo no [Site](https://jnths.com.br)<br />
-📄Saiba sobre minhas experiências [LinkedIn](www.linkedin.com/in/jonathas-lima-cunha-60070839/)
+📄Saiba sobre minhas experiências [LinkedIn](https://linkedin.com/in/jonathas-lima-cunha-60070839/)
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=patocg&label=Profile%20views&color=0e75b6&style=flat" alt="anysinc-solutions" /> </p>-->
 <div>
     <p>
