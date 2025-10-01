@@ -30,10 +30,21 @@
 
 ## Linguagens e Ferramentas:
 
+https://academiamt.com.br/wp-content/uploads/2023/05/mtcna-.jpg
+
 <p align="left">
     <a href="https://www.android.com/" target="_blank">
         <img src="icons/android.svg" alt="Android" width="40" height="40" />
     </a>
+    <a href="https://academiamt.com.br/" target="_blank">
+        <img src="icons/mtcna.svg" alt="Mikrotik" width="40" height="40" />
+    </a>
+    <a href="https://academiamt.com.br/" target="_blank">
+        <img src="icons/mtcre.svg" alt="Mikrotik" width="40" height="40" />
+    </a>
+    <a href="https://academiamt.com.br/" target="_blank">
+        <img src="icons/sc-900.svg" alt="Mikrotik" width="40" height="40" />
+    </a>             
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/c.svg" alt="C" width="40" height="40" /> 
     </a> 
@@ -51,9 +62,6 @@
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/pandas.svg" alt="Pandas" width="80" height="40" /> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
