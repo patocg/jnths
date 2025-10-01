@@ -36,14 +36,14 @@ https://academiamt.com.br/wp-content/uploads/2023/05/mtcna-.jpg
     <a href="https://www.android.com/" target="_blank">
         <img src="icons/android.svg" alt="Android" width="40" height="40" />
     </a>
-    <a href="https://academiamt.com.br/" target="_blank">
+    <a href="https://sixcore.com.br/curso-mikrotik-mtcna-oficial/" target="_blank">
         <img src="icons/mtcna.svg" alt="Mikrotik" width="40" height="40" />
     </a>
-    <a href="https://academiamt.com.br/" target="_blank">
+    <a href="https://sixcore.com.br/curso-mikrotik-mtcre-treinamento-oficial/" target="_blank">
         <img src="icons/mtcre.svg" alt="Mikrotik" width="40" height="40" />
     </a>
-    <a href="https://academiamt.com.br/" target="_blank">
-        <img src="icons/sc-900.svg" alt="Mikrotik" width="40" height="40" />
+    <a href="https://www.kasolution.com.br/Microsoft/SC-900" target="_blank">
+        <img src="icons/sc-900.svg" alt="Microsoft SC-900" width="40" height="40" />
     </a>             
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/c.svg" alt="C" width="40" height="40" /> 
