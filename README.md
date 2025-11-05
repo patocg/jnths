@@ -52,7 +52,7 @@ Atualmente desenvolvo projetos focados em automação, inovação e integração
   <img src="https://github-readme-stats.vercel.app/api?username=patocg&show_icons=true&count_private=true&theme=dracula" style="width: 420px; max-width: 100%;" alt="Jonathas GitHub Stats"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patocg&show_icons=true&locale=pt-br&layout=compact&theme=dracula" style="width: 420px; max-width: 100%;" alt="Top Languages"/>
-
+ 
 ---
 
 ## 🌱 Aprendizados & Inspiração
